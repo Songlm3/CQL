@@ -1,0 +1,56 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.12.18
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.9.6
+    start_time: 1672636460
+    t:
+      1:
+      - 1
+      - 55
+      2:
+      - 1
+      - 55
+      3:
+      - 1
+      - 2
+      - 3
+      - 13
+      - 16
+      4: 3.9.6
+      5: 0.12.18
+      8:
+      - 3
+      - 5
+buffer_size:
+  desc: null
+  value: 100000
+env:
+  desc: null
+  value: CartPole-v0
+episodes:
+  desc: null
+  value: 300
+eps_frames:
+  desc: null
+  value: 1000.0
+log_video:
+  desc: null
+  value: 0
+min_eps:
+  desc: null
+  value: 0.01
+run_name:
+  desc: null
+  value: CQL-DQN
+save_every:
+  desc: null
+  value: 100
+seed:
+  desc: null
+  value: 1

@@ -1,0 +1,16 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.9.6",
+    "heartbeatAt": "2023-01-02T07:57:30.986484",
+    "startedAt": "2023-01-02T07:57:23.897487",
+    "docker": null,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "D:\\Desktop\\\u5f3a\u5316\u5b66\u4e60\u671f\u672b\\CQL-main\\CQL-SAC-discrete\\train.py",
+    "codePath": "train.py",
+    "host": "LAPTOP-T1J7J8E1",
+    "username": "86188",
+    "executable": "D:\\Python39\\python.exe"
+}
